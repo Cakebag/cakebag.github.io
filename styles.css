@@ -1,9 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
 body {
     background-color: grey;
 }
-h1 {
+#head {
     color: white;
     text-align: center;
-    font-family: helvetica;
-    font-size: 750%;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 250px;
+}
+
+
+
+#bot {
+	color: white;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 300px;
 }
