@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oxygen');
-@import "compass/css3";
+/*@import "compass/css3";*/
 
 body {
     background-color: grey;
@@ -13,7 +13,7 @@ body {
 
 
 
-/*Be sure to look into browser prefixes for keyframes and annimations*/
+/*Be sure to look into browser prefixes for keyframes and annimation
 .flash {
    animation-name: flash;
     animation-duration: 2s;
@@ -35,7 +35,7 @@ body {
     100% {color: pink;}
   
 }
-
+*/
 
 #bot {
 	color: white;
