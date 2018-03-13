@@ -10,7 +10,31 @@ body {
     font-size: 250px;
 }
 
+/*@import "compass/css3";
 
+Be sure to look into browser prefixes for keyframes and annimations
+.flash {
+   animation-name: flash;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+    text-align: center;
+    font-size: 250px;
+}
+
+@keyframes flash {
+    15% {color: red;}
+    30% {color: orange;}
+    45% {color: yellow;}
+    60% {color: green;}
+    75% {color: blue;}
+    90% {color: purple;}
+    100% {color: pink;}
+  
+}
+*/
 
 #bot {
 	color: white;
